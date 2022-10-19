@@ -1,0 +1,22 @@
+Funcionalidades que faltaron:
+
+- Carrito de compras: Agregar, quitar, pagar todo
+- pagar
+- Editar curso
+
+
+funcionalidades Hechas:
+
+- Precio 
+- Ver curso 
+- Filtrar curso por especialidad 
+- Ver todos los cursos 
+- Ver links de zoom 
+- Contacto 
+- Administrador con funcionalidades extra 
+  - Borrar likes 
+  - Crear reuniones de zoom programadas 
+  - Crear curso 
+  - Borrar curso 
+  - Crear administradores 
+  - Borrar administradores 
