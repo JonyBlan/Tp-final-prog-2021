@@ -1,0 +1,268 @@
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.AssemblyInfo.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cs
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\TP11.exe
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\TP11.deps.json
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\TP11.runtimeconfig.json
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\TP11.runtimeconfig.dev.json
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\TP11.dll
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\ref\TP11.dll
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\TP11.pdb
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\TP11.Views.dll
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\TP11.Views.pdb
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\Dapper.dll
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\TP11\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\staticwebassets\TP11.StaticWebAssets.Manifest.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\staticwebassets\TP11.StaticWebAssets.xml
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\scopedcss\bundle\TP11.styles.css
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.TagHelpers.input.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.TagHelpers.output.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.RazorCoreGenerate.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\AgregarCurso.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\DetalleCurso.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.Views.pdb
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.csproj.CopyComplete
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.dll
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\ref\TP11.dll
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.pdb
+C:\Users\USER\Downloads\TP11\obj\Debug\net5.0\TP11.genruntimeconfig.cache
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\appsettings.Development.json
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\appsettings.json
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\TP11.exe
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\TP11.deps.json
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\TP11.runtimeconfig.json
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\TP11.runtimeconfig.dev.json
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\TP11.dll
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\ref\TP11.dll
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\TP11.pdb
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\TP11.Views.dll
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\TP11.Views.pdb
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\Dapper.dll
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\System.Data.SqlClient.dll
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Programacion\4to Bimestre\TP11\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.AssemblyInfoInputs.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.AssemblyInfo.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.csproj.CoreCompileInputs.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.MvcApplicationPartsAssemblyInfo.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\staticwebassets\TP11.StaticWebAssets.Manifest.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\scopedcss\bundle\TP11.styles.css
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.TagHelpers.input.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.TagHelpers.output.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.RazorCoreGenerate.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\Home\AgregarCurso.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\Home\DetalleCurso.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cs
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.Views.pdb
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.csproj.CopyComplete
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.dll
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\ref\TP11.dll
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.pdb
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.genruntimeconfig.cache
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\appsettings.json
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\TP11.exe
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\TP11.deps.json
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\TP11.runtimeconfig.json
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\TP11.runtimeconfig.dev.json
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\TP11.dll
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\ref\TP11.dll
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\TP11.pdb
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\TP11.Views.dll
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\TP11.Views.pdb
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\Dapper.dll
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46483420\Desktop\TP11\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.csprojAssemblyReference.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.AssemblyInfoInputs.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.AssemblyInfo.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.csproj.CoreCompileInputs.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\staticwebassets\TP11.StaticWebAssets.Manifest.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\staticwebassets\TP11.StaticWebAssets.xml
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\scopedcss\bundle\TP11.styles.css
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.TagHelpers.input.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.TagHelpers.output.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.RazorCoreGenerate.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\AgregarCurso.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\DetalleCurso.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cache
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.Views.pdb
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.csproj.CopyComplete
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.dll
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\ref\TP11.dll
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.pdb
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\TP11.genruntimeconfig.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\TP11.csproj.AssemblyReference.cache
+Z:\Programacion\4to Bimestre\TP11\obj\Debug\net5.0\staticwebassets\TP11.StaticWebAssets.xml
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\TP11.exe
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\TP11.deps.json
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\TP11.runtimeconfig.json
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\TP11.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\TP11.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\ref\TP11.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\TP11.pdb
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\TP11.Views.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\TP11.Views.pdb
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\Dapper.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.AssemblyInfo.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\staticwebassets\TP11.StaticWebAssets.Manifest.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\staticwebassets\TP11.StaticWebAssets.xml
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\scopedcss\bundle\TP11.styles.css
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.TagHelpers.input.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.TagHelpers.output.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.RazorCoreGenerate.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Home\AgregarCurso.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Home\DetalleCurso.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.Views.pdb
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.csproj.CopyComplete
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\ref\TP11.dll
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.pdb
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\TP11.genruntimeconfig.cache
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Home\Verificacion.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Home\Prueba.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Home\Pagar.cshtml.g.cs
+C:\Users\USER\Desktop\Para ort\Noviembre\TP11\obj\Debug\net5.0\Razor\Views\Home\VerCarrito.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\Pagar.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\Prueba.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\VerCarrito.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\Verificacion.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\VerAdministradores.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\Contacto.cshtml.g.cs
+C:\Users\46483420\Desktop\TP11\obj\Debug\net5.0\Razor\Views\Home\VerContactos.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\appsettings.json
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\TP11.StaticWebAssets.xml
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\TP11.exe
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\TP11.deps.json
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\TP11.runtimeconfig.json
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\TP11.runtimeconfig.dev.json
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\TP11.dll
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\TP11.pdb
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\TP11.Views.dll
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\TP11.Views.pdb
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\Dapper.dll
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46483420\Downloads\TP11\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.csproj.AssemblyReference.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.AssemblyInfoInputs.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.AssemblyInfo.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.csproj.CoreCompileInputs.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.RazorAssemblyInfo.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\scopedcss\bundle\TP11.styles.css
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\staticwebassets\TP11.StaticWebAssets.Manifest.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.TagHelpers.input.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.TagHelpers.output.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.RazorCoreGenerate.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\AgregarCurso.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Contacto.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\DetalleCurso.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Pagar.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Prueba.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\VerAdministradores.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\VerCarrito.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\VerContactos.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Home\Verificacion.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.RazorTargetAssemblyInfo.cs
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.Views.pdb
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.csproj.CopyComplete
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.dll
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\refint\TP11.dll
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.pdb
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\TP11.genruntimeconfig.cache
+C:\Users\46483420\Downloads\TP11\obj\Debug\net5.0\ref\TP11.dll

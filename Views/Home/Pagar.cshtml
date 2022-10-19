@@ -1,0 +1,20 @@
+@ViewBag.aviso
+
+<form class="needs-validation" method="post" action='@Url.Action("Index", "Home")' novalidate>
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom01">Nombre Completo:</label>
+            <input type="text">
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom02">Nacionalidad</label>
+            <input type="text">
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom02">Provincia</label>
+            <input type="text">
+        </div>
+    </div>
+    Precio: @ViewBag.precio
+    <button class="btn btn-primary" type="submit">Pagar</button>
+</form>

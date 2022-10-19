@@ -1,0 +1,29 @@
+@ViewBag.aviso
+
+<h1>ADMINISTRADORES</h1>
+<br><br><br>
+@{
+    foreach(Administrador unAdministrador in @ViewBag.administradores){
+        <h5>Id Administrador: @unAdministrador.IdAdministrador</h5> <br>
+        <h5>Nombre: @unAdministrador.Nombre</h5><br>
+        <form method="post" action='@Url.Action("BorrarAdministrador", "Home", new{idAdmin = @unAdministrador.IdAdministrador})'>
+            <button type="submit">Borrar Administrador</button>
+        </form>
+        <br><br><br><br>
+    }
+}
+<h3>Agregar nuevo Administrador:</h3>
+<br><br>
+<form method="post" action='@Url.Action("AgregarAdministrador", "Home")'>
+    <div class="form-row">
+        <div class="col-md-6 mb-3">
+            <label for="validationCustom01">Nuevo Usuario</label>
+            <input type="text" name="nombre">
+        </div>
+        <div class="col-md-6 mb-3">
+            <label for="validationCustom02">Nueva Password</label>
+            <input type="password" name="password">
+        </div>
+    </div>
+    <button class="btn btn-primary" type="submit">Enviar</button>
+</form>

@@ -1,0 +1,94 @@
+@ViewBag.aviso
+
+<h1>AGREGAR UN NUEVO CURSO</h1>
+
+<form class="needs-validation" method="post" action='@Url.Action("GuardarCurso", "Home")' novalidate>
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom01">Nombre:</label>
+            <input type="text" class="form-control" id="validationCustom01" name="Nombre" required>
+            <div class="invalid-feedback">
+                Escriba el nombre del curso
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom02">Descripcion</label>
+            <input type="text" class="form-control" id="validationCustom02" name="Descripcion" required>
+            <div class="invalid-feedback">
+                Escriba la descripcion del curso
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom02">Imagen</label>
+            <input type="text" class="form-control" id="validationCustom02" name="Imagen" required>
+            <div class="invalid-feedback">
+                inserte la url de la imagen del curso
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-md-3 mb-3">
+            <label for="validationCustom01">Id de la Especialidad:</label>
+            <input type="number" class="form-control" id="validationCustom01" name="IdEspecialidad" required>
+            <div class="invalid-feedback">
+                inserte el id de la especialidad
+            </div>
+        </div>
+        <div class="col-md-3 mb-3">
+            <label for="validationCustom02">Url del Curso</label>
+            <input type="text" class="form-control" id="validationCustom02" name="UrlCurso" required>
+            <div class="invalid-feedback">
+                inserte la url del curso
+            </div>
+        </div>
+        <div class="col-md-3 mb-3">
+            <label for="validationCustom02">Cantidad de Me Gusta</label>
+            <input type="number" class="form-control" id="validationCustom02" name="MeGusta" value=0 required>
+            <div class="invalid-feedback">
+                inserte la cantidad de me gusta
+            </div>
+        </div>
+        <div class="col-md-3 mb-3">
+            <label for="validationCustom02">Cantidad de No Me Gusta</label>
+            <input type="number" class="form-control" id="validationCustom02" name="NoMeGusta" value=0 required>
+            <div class="invalid-feedback">
+                inserte la cantidad de no me gusta
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom01">Precio</label>
+            <input type="number" class="form-control" id="validationCustom01" name="Precio" required>
+            <div class="invalid-feedback">
+                inserte el Precio
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom02">Link reunion de zoom</label>
+            <input type="text" class="form-control" id="validationCustom02" name="ReunionZoom">
+        </div>
+    </div>
+    <button class="btn btn-primary" type="submit">Enviar</button>
+</form>
+
+<script>
+// Example starter JavaScript for disabling form submissions if there are invalid fields
+(function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+    var forms = document.getElementsByClassName('needs-validation');
+    // Loop over them and prevent submission
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+</script>

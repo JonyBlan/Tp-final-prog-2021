@@ -1,0 +1,14 @@
+@ViewBag.aviso
+
+<h1>CONTACTOS:</h1>
+<br><br><br><br>
+@{
+    foreach(Contacto cadaContacto in @ViewBag.contactos){
+        <p>Id Contacto: @cadaContacto.IdContacto</p>
+        <p>Nombre: @cadaContacto.Nombre</p>
+        <p>Email: @cadaContacto.Email</p>
+        <p>Consulta: @cadaContacto.Consulta</p>
+        <a href='@Url.Action("BorrarContacto", "Home", new{idContacto = @cadaContacto.IdContacto})'>Borrar Contacto</a>
+        <br><br><br>
+    }
+}

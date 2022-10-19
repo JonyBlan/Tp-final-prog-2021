@@ -1,0 +1,9 @@
+@ViewBag.aviso
+
+@{
+    foreach(Curso unCurso in @ViewBag.carrito){
+        @unCurso.Nombre
+        @unCurso.Precio<br><br><br><br>
+    }
+}
+Precio: @ViewBag.Precio

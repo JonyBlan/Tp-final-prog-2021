@@ -1,0 +1,45 @@
+@ViewBag.aviso
+
+<br><br>
+<img src="@ViewBag.curso.Imagen" height=100>
+IdCurso: @ViewBag.curso.IdCurso <br>
+Nombre: @ViewBag.curso.Nombre <br>
+Precio: @ViewBag.curso.Precio <br>
+@{
+    if(@ViewBag.curso.ReunionZoom != null){
+        <p>Reunion zoom: @ViewBag.curso.ReunionZoom</p>
+    }
+}
+IdEspecialidad: @ViewBag.curso.IdEspecialidad <br>
+Descripcion: @ViewBag.curso.Descripcion <br>
+@Html.Raw(ViewBag.curso.UrlCurso) <br><br><br><br>
+
+<a href='@Url.Action("Calificar", "Home", new{idCurso = @ViewBag.curso.IdCurso, gusta = true})'>
+    <img src="/img/like.png" height=50>
+</a>
+@ViewBag.curso.MeGusta
+<a href='@Url.Action("Calificar", "Home", new{idCurso = @ViewBag.curso.IdCurso, gusta = false})'>
+    <img src="/img/dislike.png" height=50>
+</a>
+@ViewBag.curso.NoMeGusta
+<br><br><br>
+@{
+    if(@ViewBag.coinciden == true){
+        <a href='@Url.Action("SacarDelCarrito", "Home", new{curso = @ViewBag.curso})'>Eliminar del carrito</a><br><br>
+    }
+    else{
+        <a href='@Url.Action("AgregarAlCarrito", "Home", new{curso = @ViewBag.curso})'>Agregar al carrito</a><br><br>
+    }
+}
+<br><br><br>
+@{
+    if(@ViewBag.esAdministrador == true){
+        <a href='@Url.Action("BorrarLikes", "Home", new{idCurso = @ViewBag.curso.IdCurso})'>Borrar Likes y Dislikes</a><br><br>
+        <a href='@Url.Action("EliminarCurso", "Home", new{idCurso = @ViewBag.curso.IdCurso})'>Borrar Curso</a><br><br>
+        <p>Agregar Reunion de zoom:</p>
+        <form method="post" action='@Url.Action("AgregarReunionZoom", "Home", new{idCurso = @ViewBag.curso.IdCurso})'>
+            <input type="text" name="link">
+            <button type="submit">Enviar</button>
+        </form>
+    }
+}

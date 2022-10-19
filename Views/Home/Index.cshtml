@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@ViewBag.aviso
+
+<div class="text-center">
+    <h1 class="display-4">@ViewBag.titulo</h1>
+    @{
+        foreach(Curso unCurso in @ViewBag.cursos){
+            <div class="card" style="width: 18rem;">
+                <img src="@unCurso.Imagen" class="card-img-top" alt="Foto de @unCurso.Nombre">
+                <div class="card-body">
+                    <h5 class="card-title">@unCurso.Nombre</h5>
+                    <p class="card-text">@unCurso.Descripcion</p>
+                    <a href='@Url.Action("VerCurso", "Home", new{idCurso = @unCurso.IdCurso})' class="btn btn-primary">Mas informacion</a>
+                </div>
+            </div>
+        }
+    }
+</div>
